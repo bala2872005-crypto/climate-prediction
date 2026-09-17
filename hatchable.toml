@@ -1,0 +1,9 @@
+name = "ClimateSense AI"
+
+[ai]
+required = true
+description = "AI used to explain climate trends and generate user-friendly prediction insights."
+
+[auth]
+enabled = true
+providers = ["email"]
